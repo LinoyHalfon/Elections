@@ -6,7 +6,6 @@ Coalition::Coalition(int id, int partyId, int mandates) : mId(id), mParties(), m
     parties.push_back(partyId);
     mParties = parties;
 }
-///hert
 
 const int Coalition::getId() const
 {
