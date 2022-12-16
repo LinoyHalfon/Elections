@@ -1,0 +1,20 @@
+{
+    "makefile.launchConfigurations": [
+        //{
+        //     "cwd": "/home/spl211/SPL23_Assignment1/Skeleton/bin",
+        //     "binaryPath": "/home/spl211/SPL23_Assignment1/Skeleton/bin/cRace",
+        //     "binaryArgs": [
+        //         "../tests/01.json"
+        //     ]
+        // },
+        {
+            "cwd": "/home/users/bsc/2023/factork/Desktop/try1-neighboursChange(4)/Assignment1/bin",
+            "binaryPath": "/home/users/bsc/2023/factork/Desktop/try1-neighboursChange(4)/Assignment1/bin/cRace",
+            "binaryArgs": ["../tests/03.json"]
+        }
+    ],
+     "files.associations": {
+         "vector": "cpp",
+     }
+    }
+    
